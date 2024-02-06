@@ -45,7 +45,11 @@ https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/juzuamma/original
 - "thumbnail"
 - "medium"
 - "high"
+- "extra_large"
+- "super_large"
+- "ultra_large"
 - "original"
+
 
 كما يمكنك التبديل بين الصفحات الكتاب عبر تغيير رقم الصفحة في الرابط.
 
