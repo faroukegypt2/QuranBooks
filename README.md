@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة الفاتحة وجزء عم">
 </p>
+# مشروع صور القران الكريم (الفاتحة وجزء عم)
+
 ## الاصدارات
  
 | المصحف          	| الغلاف                                                                                                                 	| لينك                                                                  	|
