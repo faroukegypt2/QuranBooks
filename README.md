@@ -5,6 +5,14 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة الفاتحة وجزء عم">
 </p>
+## الاصدارات
+
+| المصحف          	| الغلاف                                                                                                                 	| لينك                                                                  	|
+|-----------------	|------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------	|
+| المصحف الممتاز  	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="50"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/mumtaz           	|
+| الفاتحة وجزء عم 	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="50"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/juzuamma         	|
+| جزء تبارك       	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="50"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/hafs_juzutabarak 	|
+
 
 ## الأحجام المتاحة
 هذه الصور تم إنشاؤها بأحجام مختلفة كما يلي:
