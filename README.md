@@ -3,7 +3,7 @@
 هذا المشروع يهدف إلى إنشاء صور للقران الكريم بعدة اصدارات مختلفة وبصيغ متعددة وبأحجام مختلفة لمجمع الملك فهد لطباعة المصحف الشريف.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/juzuamma/original/3.png" alt="صورة الفاتحة وجزء عم">
+  <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة الفاتحة وجزء عم">
 </p>
 
 ## الأحجام المتاحة
