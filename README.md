@@ -11,9 +11,9 @@
  
 | المصحف          	| الغلاف                                                                                                                 	| لينك                                                                  	|
 |-----------------	|------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------	|
-| المصحف الممتاز  	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="50"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/mumtaz           	|
-| الفاتحة وجزء عم 	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="50"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/juzuamma         	|
-| جزء تبارك       	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="50"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/hafs_juzutabarak 	|
+| المصحف الممتاز  	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/mumtaz/original/1.png" alt="صورة" width="100"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/mumtaz           	|
+| الفاتحة وجزء عم 	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/juzuamma/original/3.png" alt="صورة" width="100"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/juzuamma         	|
+| جزء تبارك       	| <img src="https://raw.githubusercontent.com/faroukegypt2/QuranBooks/main/hafs_juzutabarak/original/1.png" alt="صورة" width="100"> 	| https://github.com/faroukegypt2/QuranBooks/tree/main/hafs_juzutabarak 	|
 
 
 ## الأحجام المتاحة
